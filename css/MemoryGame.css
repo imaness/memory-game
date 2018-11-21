@@ -239,49 +239,22 @@ body {
 }
 
 .back.card-1 {
-  background-image: url(../images/fruits/apple.jpg);
+  background-image: url(../images/aboitizland/aboitizland_logo_4x3.png);
 }
 .back.card-2 {
-  background-image: url(../images/fruits/fig.jpg);
+  background-image: url(../images/aboitizland/ajoya_4x3.jpg);
 }
 .back.card-3 {
-  background-image: url(../images/fruits/grape.jpg);
+  background-image: url(../images/aboitizland/amoa_4x3.png);
 }
 .back.card-4 {
-  background-image: url(../images/fruits/kiwi.jpg);
+  background-image: url(../images/aboitizland/kishanta_4x3.jpg);
 }
 .back.card-5 {
-  background-image: url(../images/fruits/lemon.jpg);
+  background-image: url(../images/aboitizland/persimmon_4x3.png);
 }
 .back.card-6 {
-  background-image: url(../images/fruits/lime.jpg);
-}
-.back.card-7 {
-  background-image: url(../images/fruits/mango.jpg);
-}
-.back.card-8 {
-  background-image: url(../images/fruits/melon.jpg);
-}
-.back.card-9 {
-  background-image: url(../images/fruits/orange.jpg);
-}
-.back.card-10 {
-  background-image: url(../images/fruits/peach.jpg);
-}
-.back.card-11 {
-  background-image: url(../images/fruits/pear.jpg);
-}
-.back.card-12 {
-  background-image: url(../images/fruits/pinapple.jpg);
-}
-.back.card-13 {
-  background-image: url(../images/fruits/plum.jpg);
-}
-.back.card-14 {
-  background-image: url(../images/fruits/raspberry.jpg);
-}
-.back.card-15 {
-  background-image: url(../images/fruits/strawberry.jpg);
+  background-image: url(../images/aboitizland/seafront_4x3.png);
 }
 
 /** Matching Cards **/
